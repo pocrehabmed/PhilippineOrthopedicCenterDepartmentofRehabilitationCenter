@@ -1,6 +1,6 @@
 <html lang="en-US">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-5">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -9,13 +9,13 @@
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Hi there 👋" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Department of Rehabilitation Medicine GitHub Page" />
-<meta property="og:description" content="Department of Rehabilitation Medicine GitHub Page" />
+<meta name="description" content="Philippine Orthopedic Center - Department of Rehabilitation Center" />
+<meta property="og:description" content="Philippine Orthopedic Center - Department of Rehabilitation Center" />
 <link rel="canonical" href="https://pocrehabmed.github.io/pocrehabmed/" />
 <meta property="og:url" content="https://pocrehabmed.github.io/pocrehabmed/" />
 <meta property="og:site_name" content="pocrehabmed" />
 <script type="application/ld+json">
-{"@type":"WebSite","headline":"Hi there 👋","url":"https://pocrehabmed.github.io/pocrehabmed/","description":"Department of Rehabilitation Medicine GitHub Page","name":"pocrehabmed","@context":"https://schema.org"}</script>
+{"@type":"WebSite","headline":"Hi there 👋","url":"https://pocrehabmed.github.io/pocrehabmed/","description":"Philippine Orthopedic Center - Department of Rehabilitation Center","name":"pocrehabmed","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/pocrehabmed/assets/css/style.css?v=029741f23fcad87bad9b5f5870abdf81d665a751">
@@ -33,10 +33,10 @@
         <p>Department of Rehabilitation Medicine GitHub Page</p>
 
         
-        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">View the Project on GitHub <small>pocrehabmed/pocrehabmed</small></a></p>
-        
-
-        
+        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Medical Consultation </a></p>
+         <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Physical Therapy </a></p>
+          <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Occupational Therapy </a></p>
+           <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Prosthesis/Orthosis </a></p>
 
         
       </header>
