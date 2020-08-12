@@ -20,10 +20,7 @@
 {"@type":"WebSite","headline":"pocrehabmed","url":"https://pocrehabmed.github.io/pocrehabmed/","description":"Philippine Orthopedic Center - Department of Rehabilitation Medicine","name":"pocrehabmed","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/pocrehabmed/assets/css/style.css?v=64c1d7b56be9a0b1dd12606e8ed7defc74bb9b2e" />
-    <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+ 
   </head>
   <body>
     <div class="wrapper">
