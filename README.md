@@ -46,10 +46,6 @@
 </div></body></html>
 
 
-      </section>
- 
-    </div>
-    <script src="/pocrehabmed/assets/js/scale.fix.js"></script>
     
   </body>
 </html>
