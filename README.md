@@ -19,7 +19,7 @@
 <script type="application/ld+json">
 {"@type":"WebSite","headline":"pocrehabmed","url":"https://pocrehabmed.github.io/pocrehabmed/","description":"Philippine Orthopedic Center - Department of Rehabilitation Medicine","name":"pocrehabmed","@context":"https://schema.org"}</script>
 
- <p>Philippine Orthopedic Center - Department of Rehabilitation Medicine GitHub Page</p>
+ <p>Philippine Orthopedic Center - Department of Rehabilitation Medicine</p>
 
         
         <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Medical Consultation</a></p>
@@ -49,6 +49,4 @@
 </div></body></html>
 
 
-    
-  </body>
-</html>
+ 
