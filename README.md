@@ -1,4 +1,4 @@
- <html lang="en-US">
+       <html lang="en-US">
   <head>
     <meta charset="UTF-4" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -18,18 +18,12 @@
 <meta property="og:site_name" content="pocrehabmed" />
 <script type="application/ld+json">
 {"@type":"WebSite","headline":"pocrehabmed","url":"https://pocrehabmed.github.io/pocrehabmed/","description":"Philippine Orthopedic Center - Department of Rehabilitation Medicine","name":"pocrehabmed","@context":"https://schema.org"}</script>
-
- <p>Philippine Orthopedic Center - Department of Rehabilitation Medicine</p>
-
-        
-        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Medical Consultation</a></p>
-        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Physical Therapy</a></p>
-        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Occupational Therapy</a></p>
-        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Prothesis/Orthosis</a></p>
-
 <!-- End Jekyll SEO tag -->
 
- 
+    <link rel="stylesheet" href="/pocrehabmed/assets/css/style.css?v=64c1d7b56be9a0b1dd12606e8ed7defc74bb9b2e" />
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
@@ -38,7 +32,13 @@
         
         
 
-       
+        <p>Philippine Orthopedic Center - Department of Rehabilitation Medicine GitHub Page</p>
+
+        
+        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Medical Consultation</a></p>
+        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Physical Therapy</a></p>
+        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Occupational Therapy</a></p>
+        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Prothesis/Orthosis</a></p>
         
 
         
@@ -47,7 +47,3 @@
       </header>
 
 </div></body></html>
-
-
-   </body>
-</html>
