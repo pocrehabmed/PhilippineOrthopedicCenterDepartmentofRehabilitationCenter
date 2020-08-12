@@ -18,6 +18,15 @@
 <meta property="og:site_name" content="pocrehabmed" />
 <script type="application/ld+json">
 {"@type":"WebSite","headline":"pocrehabmed","url":"https://pocrehabmed.github.io/pocrehabmed/","description":"Philippine Orthopedic Center - Department of Rehabilitation Medicine","name":"pocrehabmed","@context":"https://schema.org"}</script>
+
+ <p>Philippine Orthopedic Center - Department of Rehabilitation Medicine GitHub Page</p>
+
+        
+        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Medical Consultation</a></p>
+        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Physical Therapy</a></p>
+        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Occupational Therapy</a></p>
+        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Prothesis/Orthosis</a></p>
+
 <!-- End Jekyll SEO tag -->
 
  
@@ -29,13 +38,7 @@
         
         
 
-        <p>Philippine Orthopedic Center - Department of Rehabilitation Medicine GitHub Page</p>
-
-        
-        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Medical Consultation</a></p>
-        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Physical Therapy</a></p>
-        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Occupational Therapy</a></p>
-        <p class="view"><a href="https://github.com/pocrehabmed/pocrehabmed">Prothesis/Orthosis</a></p>
+       
         
 
         
